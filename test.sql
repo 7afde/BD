@@ -1,5 +1,5 @@
-create database tp1;
-use tp1;
+create database test;
+use test;
 
 
 create table groupes(codeGrp int(2),
